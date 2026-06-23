@@ -1,1 +1,1 @@
-# -schowdhury-event-talks-app
+# schowdhury-event-talks-app
